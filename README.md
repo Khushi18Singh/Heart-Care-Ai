@@ -143,7 +143,7 @@ A **Machine Learning + Data Science** web app that predicts cardiovascular (hear
 ## 🚀 Setup
 
 ```bash
-git clone https://github.com/<your-username>/Heart-Care-Ai.git
+git clone https://github.com/Khushi18Singh/Heart-Care-Ai.git
 cd Heart-Care-Ai
 python -m venv venv
 venv\Scripts\activate      # Windows
