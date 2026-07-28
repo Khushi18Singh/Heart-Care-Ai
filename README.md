@@ -9,7 +9,7 @@ A **Machine Learning + Data Science** web app that predicts cardiovascular (hear
 
 **Risk Classes:** Low Risk 🟢 · High Risk 🔴
 
-🔗 **Live Demo:** _(add your Streamlit deployment link here once deployed)_
+🔗 **Live Demo:** https://heart-care-ai-by-khushi.streamlit.app/
 
 ---
 
